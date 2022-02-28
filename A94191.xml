@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A synopsis, or contact view, of the life of John Armand, Cardinall of Richlieu, great favorite and minister of state to Lewis the 13th. King of France. To bee engraven on his tombe. First written in Latine, and now verbatim rendered English.</title>
+            <title>Joannis Armandi Plessaei Richelii ... Vitae synopsis inscribenda tumulo. English</title>
+            <author>Morgues, Matthieu de, sieur de Saint-Germain, 1582-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94191</idno>
+            <idno type="STC">Wing S6387</idno>
+            <idno type="STC">Thomason E90_10</idno>
+            <idno type="STC">ESTC R13130</idno>
+            <idno type="EEBO-CITATION">99859418</idno>
+            <idno type="PROQUEST">99859418</idno>
+            <idno type="VID">111495</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111495)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E90[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A synopsis, or contact view, of the life of John Armand, Cardinall of Richlieu, great favorite and minister of state to Lewis the 13th. King of France. To bee engraven on his tombe. First written in Latine, and now verbatim rendered English.</title>
+                  <title>Joannis Armandi Plessaei Richelii ... Vitae synopsis inscribenda tumulo. English</title>
+                  <author>Morgues, Matthieu de, sieur de Saint-Germain, 1582-1670.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Yeare, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 21 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richelieu, Armand Jean du Plessis, --  duc de, 1585-1642.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111495:1" rendition="simple:additions"/>
+            <p>A SYNOPSIS, OR CONTRACT VIEW, Of the Life of <hi>John Armand,</hi> Cardi<g ref="char:EOLhyphen"/>nall of RICHLIEU, great Favorite and <hi>Miniſter</hi> of State to LEWIS the 13<hi rend="sup">th</hi>. King of FRANCE.</p>
+            <p>To bee Engraven on his Tombe.</p>
+            <p>Firſt written in Latine, and now <hi>verbatim</hi> rendered Engliſh.</p>
+            <q xml:lang="lat">
+               <l>Quis leget haec?—</l>
+               <l>Vel duo, vel nemo.</l>
+               <bibl>PERSIVS.</bibl>
+            </q>
+            <p>Printed in the Yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="epitaph">
+            <pb facs="tcp:111495:2"/>
+            <pb n="1" facs="tcp:111495:2"/>
+            <head>Cardinall RICHLIEU his <hi>Epitaph.</hi>
+            </head>
+            <p>THe firſt thing requeſted of thee <hi>(O Paſſenger)</hi> is, that thou wouldeſt bleſſe <hi>Almighty God,</hi> that in <hi>France</hi> thou maiſt now read theſe lines <hi>ſecurely.</hi>
+            </p>
+            <p>Next, wonder, that He whom the Earth was too <hi>an<g ref="char:EOLhyphen"/>guſt,</hi> for when he was alive, ſhould be impriſoned in ſo ſmall a ſpace of ground, now he is dead.</p>
+            <p>When he had <hi>commoved Earth,</hi> he aſpired to rule even <hi>Heaven</hi> it ſelfe; as appeares by his arrogating to him<g ref="char:EOLhyphen"/>ſelfe this <hi>Symbolum,</hi> or <hi>Motto. MENS SIDERA VOLVIT.</hi>
+            </p>
+            <p>And that thou maiſt underſtand what kind of <hi>Intelli<g ref="char:EOLhyphen"/>gence</hi> this was; know that he was of a <hi>ſagatious induſtry,</hi> but <hi>unquiet;</hi> an Enemy both of the Publike, and of his Privare <hi>tranquillity.</hi>
+            </p>
+            <p>In a great <hi>Wit,</hi> by many <hi>revered,</hi> not a few that knew him, found a great mixture of <hi>madneſſe.</hi>
+            </p>
+            <p>Hee had a minde that was made worſe by every thing; bettered by nothing.</p>
+            <p>He <hi>ſtood</hi> thus long; not ſo much through <hi>favour,</hi> as his <hi>power</hi> with a mightie King: and was happy in the <hi>event</hi> of things, rather then in a prudent mannage of them.</p>
+            <p>Onely, he was unhappy in the <hi>diſ-favour</hi> of Almigh<g ref="char:EOLhyphen"/>ty God: For having continually conflicted with noy<g ref="char:EOLhyphen"/>ſome diſeaſes, he was ignorant of the ſeat of <hi>happines,</hi> which yet, to the rendring both himſelfe and others unhappy he ſought after.</p>
+            <p>
+               <pb n="2" facs="tcp:111495:3"/>
+Nor did he ever ſeeme <hi>happy</hi> even in his owne eyes, as not honeſt in the eyes of thoſe who called him <hi>happy.</hi>
+            </p>
+            <p>He was vexed with two great tormentors of life, <hi>Cho<g ref="char:EOLhyphen"/>ler,</hi> and <hi>Melancholly.</hi> In the flames of the former, and the <hi>fumes</hi> of the latter he continually ſuffered.</p>
+            <p>So that <hi>venome</hi> which he ſpit <hi>out</hi> to the perdition of others, he could not keepe in without hurt to himſelf.</p>
+            <p>He outwent moſt men in <hi>Covetouſnes,</hi> all men in <hi>am<g ref="char:EOLhyphen"/>bition.</hi> A <hi>Waſter</hi> of the Royall Exchequer, but a nig<g ref="char:EOLhyphen"/>gard of his owne Purſe. Cruell if offended; but more cruell where he offended others.</p>
+            <p>By the conferrings of the Queene Mother he was made rich, by her plottings <hi>preferred,</hi> and by her pow<g ref="char:EOLhyphen"/>er made more <hi>potent.</hi> Yet her did hee deprive of the Kings <hi>favour,</hi> of her <hi>liberty,</hi> of her <hi>eſtate,</hi> of <hi>France,</hi> and at laſt of her <hi>life,</hi> ſhe being an exile at <hi>Colleine.</hi> And leſt he ſhould ſpare her when ſhe was dead, he <hi>null'd</hi> her laſt will, and cauſed her corps to lie five months (at the end of which, himſelfe followed her) in her cham<g ref="char:EOLhyphen"/>ber unburied.</p>
+            <p>The <hi>honour</hi> of <hi>Monſieur</hi> the Kings Brother he viola<g ref="char:EOLhyphen"/>ted, and endeavoured to ſupplant even his <hi>Perſon.</hi>
+            </p>
+            <p>
+               <note place="margin">King of <hi>France.</hi>
+               </note>He not onely withdrew the affections of * <hi>Sonne</hi> from Mother, and of * Brother from <hi>Brother;</hi> but of * <hi>Husband</hi> from <hi>Wife.</hi>
+            </p>
+            <p>
+               <hi>Mariliack</hi> he cauſed to be beheaded by the greateſt <hi>wrong. Montmorancy</hi> by the greateſt <hi>right, Cinkmart</hi> partly by <hi>right,</hi> partly by <hi>wrong; M. de Thow,</hi> whe<g ref="char:EOLhyphen"/>ther by <hi>right</hi> or <hi>wrong</hi> no man knowes.</p>
+            <p>Some Noble men he condemned to perpetuall <hi>im<g ref="char:EOLhyphen"/>priſonment,</hi> more to <hi>baniſhment:</hi> but thoſe he drave from <hi>Court</hi> were innumerable.</p>
+            <p>He proſcribed many, leaſt they ſhould hinder his
+<pb n="3" facs="tcp:111495:3"/>deſignes. Nor did <hi>milder France</hi> ever behold ſo fre<g ref="char:EOLhyphen"/>quent <hi>Puniſhments.</hi>
+            </p>
+            <p>Building upon the power of a great King (whom with a great deale of <hi>art</hi> and <hi>ſtudy</hi> he deceived) and ſuppeditated with the wealth of a moſt fruitfull King<g ref="char:EOLhyphen"/>dome, he ſpent an infinite number of <hi>Arrowes</hi> in ai<g ref="char:EOLhyphen"/>ming to hit the maine <hi>Marke</hi> which he had miſſed.</p>
+            <p>A continuall <hi>working</hi> and <hi>agitation</hi> of mind, backt with many mad attempts, together with a rigid <hi>ſeve<g ref="char:EOLhyphen"/>rity,</hi> and an all-trying <hi>boldnes,</hi> produced a few fortunate <hi>iſſues.</hi> But hee had ſoone beene <hi>ſupplanted,</hi> if among forreigne Enemies he had found ſome more wary, or among French men (ſcarſe any of whom but were averſe to him) had met but with one <hi>Adverſary.</hi>
+            </p>
+            <p>It well beſteaded him that hardly any body <hi>knew</hi> him, or <hi>beleeved</hi> thoſe that did.</p>
+            <p>He was ſo fortunate, that thoſe of the <hi>Nobility,</hi> as well as of the <hi>Army,</hi> whom he had <hi>irritated,</hi> did yet for his honour, <hi>ſhed</hi> their owne and others <hi>blood,</hi> whi<g ref="char:EOLhyphen"/>leſt himſelfe <hi>mingled</hi> his with the Kings.</p>
+            <p>He had periſhed in the ſame deſigne in which <hi>Se<g ref="char:EOLhyphen"/>janus</hi> once <hi>periſhed,</hi> had he not taken out of the way (O griefe to thinke on) the Royall Count of <hi>Soiſſon.</hi>
+            </p>
+            <p>
+               <hi>Germany, Spaine, Italie,</hi> and the Low Countries, but eſpecially <hi>France,</hi> will hardly be able in a whole Age to <hi>efface</hi> the bad <hi>impreſsions</hi> of ſo <hi>hurtfull</hi> an Auto<g ref="char:EOLhyphen"/>ritie.</p>
+            <p>Taking pleaſure in the miſeries both of the Citizens and Suburbers, that he might <hi>fleece</hi> theſe, he lanc'd the very <hi>entralls</hi> of thoſe.</p>
+            <p>Nor did he any whit <hi>indulge</hi> to the ſacred <hi>health</hi> of of the King, but diſturbed that, whilſt with anxieties and various Paſſions of mind he wore out his <hi>owne.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:111495:4"/>
+The Divine juſtice firſt ulcerated his <hi>arme</hi> which he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad ſtretched out againſt heaven. Next it tooke from him the uſe of his right <hi>Hand,</hi> which had <hi>ſubſcribed to unneceſſary warres.</hi> His <hi>arme</hi> eight moneths before his death rotted, by reaſon of which his hand withered.</p>
+            <p>And yet (which is a ſad thing) he that ſo plainely felt God an <hi>avenger,</hi> would not plainely enough <hi>ac<g ref="char:EOLhyphen"/>knowledge</hi> him.</p>
+            <p>This appeares in that he more <hi>hotly</hi> exerciſed his fu<g ref="char:EOLhyphen"/>ry upon his private Enemies.</p>
+            <p>In that, Death approaching, rather out of a politick <hi>Prudence,</hi> then a Chriſtian <hi>Piety,</hi> he commended his <hi>Fa<g ref="char:EOLhyphen"/>vorites</hi> to the King, more then his <hi>Soule</hi> to God.</p>
+            <p>In that, a few daies before the <hi>Cataſtrophe</hi> of his <hi>Tragicke</hi> life, he cauſed a <hi>Play</hi> of his owne deviſing (which he called <hi>Europa Triumphata</hi>) to be Acted in the moſt Royall <hi>Pompe</hi> that could bee (though himſelfe could not behold it.)</p>
+            <p>In that, being a <hi>Cardinall,</hi> he <hi>afflicted</hi> the <hi>Church,</hi> be<g ref="char:EOLhyphen"/>ing a <hi>Prieſt,</hi> he <hi>Shed Bloud,</hi> being a <hi>Chriſtian,</hi> he <hi>forgave</hi> no <hi>injuries,</hi> and being a <hi>Man,</hi> he yet would not remem<g ref="char:EOLhyphen"/>ber himſelfe to be <hi>mortall,</hi> even when the wormes craw<g ref="char:EOLhyphen"/>ling out of his many Ulcers did admoniſh him to how <hi>fraile</hi> and <hi>noiſome</hi> a <hi>mortality</hi> he was obnoxious.</p>
+            <p>When by all waies (the moſt impious not unaſſai<g ref="char:EOLhyphen"/>ed) he had for the ſpace of eighteene yeares proſe<g ref="char:EOLhyphen"/>cuted his <hi>private</hi> ends to the <hi>undoing</hi> of the <hi>Publicke,</hi> hee at length arrived to the ordinary <hi>end</hi> of Men, by a death to appearance <hi>peaceable,</hi> but more <hi>lingring</hi> then that of many, whom he had ſent before him.</p>
+            <p>He died at <hi>Paris,</hi> where he had beene borne fifty ſe<g ref="char:EOLhyphen"/>ven yeares and three moneths before.</p>
+            <p>Forſaking <hi>France</hi> and his owne houſe, he ſeemed to
+<pb n="5" facs="tcp:111495:4"/>endeavour the combuſtion of them both; of that, by an extorted Declaration againſt the Kings Brother of this, by a will framed to a womans fancie.<note n="*" place="margin">The Dut<g ref="char:EOLhyphen"/>cheſſe of <hi>Eguillon.</hi>
+               </note>
+            </p>
+            <p>For the reſt, nor did the Kingdome of France (be<g ref="char:EOLhyphen"/>ing opulent) ever deale with any ſo bountifully; not (being of a Genius impatient) did it ever beare with any ſo continuedly; nor (affecting quietment) did it ever part with any ſo gladly.</p>
+            <p>I aſſert theſe things openly which thou (ô Paſſinger) didſt priviely ſuſpect, and in wiſdome keptſt to thy ſelfe.</p>
+            <p>If thou encountereſt any one who ſtill doubts, en<g ref="char:EOLhyphen"/>treat him not to give credit to abuſed men, nor to cor<g ref="char:EOLhyphen"/>rupted flatterers; but rather to Me who ſpeake no<g ref="char:EOLhyphen"/>thing but truth, and that out of a conſcientious ſin<g ref="char:EOLhyphen"/>cerity.</p>
+            <p>And I would have all men perſwaded, that the leaſt juſtice is more acceptable to God, than the greateſt power: that a name is to be eſteemed, not for being far and wide diffuſed, but for being good, that to trouble and unſetle many things, is not to doe much, but be<g ref="char:EOLhyphen"/>ing unſetled, to compoſe them; more, to keepe them from being unſetled, moſt of all.</p>
+            <p>Proſperous wickedneſſes are by the multitude ac<g ref="char:EOLhyphen"/>counted for vertues: but doe thou (on the contrary) thinke nothing more wretched, then ſuch thriving im<g ref="char:EOLhyphen"/>pieties.</p>
+            <p>This egregious <hi>Artiſan</hi> of <hi>cheats (Richlieu)</hi> deceived many for a <hi>while,</hi> and himſelfe haply to <hi>eternity.</hi>
+            </p>
+            <p>Who (alas) ſhall reduce to <hi>order</hi> that <hi>infinity</hi> of things which he hath <hi>confuſed?</hi> who deemed of Peace, becauſe it ſuited not with his turbulent <hi>braine,</hi> that it was diſagreeable even to his <hi>fortune.</hi> From whence
+<pb n="6" facs="tcp:111495:5"/>ſprang thoſe many evills which for theſe laſt fifteen yeeres have ſo <hi>oppreſſed</hi> the Chriſtian World.</p>
+            <p>Pray, that God would not <hi>eternally</hi> avenge it upon the Author; who needed much <hi>mercy</hi> and many of Gods <hi>compaſsions,</hi> amid his many and great <hi>crimes.</hi>
+            </p>
+            <p>Doe thou (O Chriſtan ſeriouſly perpend, what a <hi>Nothing</hi> that is, which is ſubject to a momentary va<g ref="char:EOLhyphen"/>niſh, * <hi>None of thoſe whom thou ſeeſt clad in Purple, <note place="margin">Seneca.</note> is therefore happie, no more than they whoſe part in a Comedy allowes them a Robe and Scepter; who having buskind and on tip-toes ſtrutted it before the ſtaring ſpectators, as ſoone as they come to their Exit, are un-pantoffled, and returne to their owne ſtature.</hi>
+            </p>
+            <p>Furthermore, ſee how ſmall an <hi>aſh heape</hi> he now is, who once was ſo great a <hi>Fire:</hi> how <hi>fetid</hi> a <hi>ſtreame</hi> he now ſends forth, who lately darted a ſplendor ſo <hi>coruſ<g ref="char:EOLhyphen"/>cant,</hi> that every ones eyes were thereby <hi>dazzled.</hi>
+            </p>
+            <p>I wiſh he prove not a <hi>Fire-brand</hi> to himſelfe in ano<g ref="char:EOLhyphen"/>ther world, who was ſo to <hi>Europe</hi> in this.</p>
+            <p>Poore Europe now hopes for <hi>Peace,</hi> the <hi>fuell</hi> of her <hi>warres</hi> being <hi>extinct.</hi>
+            </p>
+            <p>I ſhould entreat thee (ô Paſſinger) to pray for <hi>Pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce</hi> to this ſo mortal an enemie even of his own peace: but that I feare thou wouldſt but trouble him, in wiſhing a thing to him which he ſo greatly hared. Yet <hi>Pray</hi> notwithſtanding; in that thou are commanded to <hi>live thy enemies.</hi> If the Peace thou prayeſt for, <hi>reach</hi> not <hi>Him,</hi> it will <hi>returne</hi> unto thy ſelfe. Such was the Com<g ref="char:EOLhyphen"/>mandment of our Saviour; <note place="margin">Luke 10.</note> in whom I wiſh thee <hi>Peace</hi> whilſt thou <hi>liveſt,</hi> that thou mayſt ſweetely <hi>reſt</hi> in him when thou <hi>dyeſt.</hi> In the meane time, <hi>Farewell.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
